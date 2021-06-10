@@ -1,2 +1,1 @@
-#CryptoMove
-Crypto Currency Trading Bot to maximize the profit.
+#CryptoMove - The Cryptocurrency Trading Bot.
